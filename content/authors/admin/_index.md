@@ -23,6 +23,7 @@ interests:
   - Data Science
   - Brain computer interfacing
   - Neuromodulation
+  - Neuroethics
 
 # Education to show in About widget
 education:
@@ -72,6 +73,7 @@ email: 'eshorer1@jhu.edu'
 highlight_name: true
 ---
 
-Dr Eran Frank Shorer is a medical doctor and computational neuroscientist working at the Brain Health Group, Department of Neurology/Neurosurgery at Johns Hopkins University. His research focus is on computational approaches to understanding and treating neurological & psychiatric disorders by combining methods from data-science, biophysics, and electrical/biomedical engineering. He envisions a world where brain-computer interfaces drastically improve his patients' outcomes.  
+I am a medical doctor and computational neuroscientist working in the Brain Health Group, Department of Neurology/Neurosurgery at Johns Hopkins University. I see a health system where the poor outcomes arising from many neurological and psychiatric disorders are treated by adopting novel approaches from data-science, biophysics, and electrical/biomedical engineering.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
