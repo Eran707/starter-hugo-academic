@@ -23,6 +23,7 @@ interests:
   - Data Science
   - Brain computer interfacing
   - Neuromodulation
+  - Neuroethics
 
 # Education to show in About widget
 education:
